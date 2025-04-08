@@ -17,7 +17,7 @@
       </a>
         </div>
         <div class="space-x-6 font-bold" >
-<a href="#">MyJobs</a>
+<a href="#">MYJobs</a>
 <a href="#">Carrers</a>
 <a href="#">Salaries</a>
 <a href="#">Compnies</a>
