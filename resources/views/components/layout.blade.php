@@ -24,7 +24,7 @@
         </div>
         <div class="flex flex-row space-x-6 font-bold ">
           @auth
-          <a href="/jobs/create" class="text-blue-700 hover:bg-white/20  hover:text-blue-200"">Post a Job</a>
+          <a href="/jobs/create" class="text-blue-700 hover:bg-white/10  hover:text-blue-200"">Post a Job</a>
           
           <form action="/login" method="POST">
             @csrf
